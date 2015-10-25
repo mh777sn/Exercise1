@@ -14,12 +14,9 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Hello ASE2015 - how are you now? :)");
-
-
 	    Scanner input = new Scanner(System.in);
-	    
-		System.out.println("Hello ASE2015 - how are you? :)");
+
+		System.out.println("Hello ASE2015 - how are you now? :)");
 		
 		System.out.println("Please enter your name:");
 		String answer = input.nextLine();
