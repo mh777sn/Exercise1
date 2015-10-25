@@ -13,9 +13,9 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-<<<<<<< HEAD
+
 		System.out.println("Hello ASE2015 - how are you now? :)");
-=======
+
 
 	    Scanner input = new Scanner(System.in);
 	    
@@ -26,6 +26,6 @@ public class HelloWorld {
 		
 		HelloUser MyUser = new HelloUser(answer);
 		MyUser.greetUser();
->>>>>>> hello_user
+
 	}
 }
